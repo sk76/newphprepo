@@ -1,3 +1,3 @@
 <?php
-	echo "Deploying PHP Web App on OpenShiift Cluster!!";
+	echo "Version-2: Deploying PHP Web App on OpenShiift Cluster!!";
 ?>
